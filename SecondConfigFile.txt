@@ -8,3 +8,6 @@ Path2=""
 Function1
 Function2
 Function3
+
+Alterando o arquivo no repositorio local do PC para sincronizar com o rep-remoto do GitHub...
+testando 1,2,3
